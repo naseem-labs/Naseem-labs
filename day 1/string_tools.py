@@ -1,0 +1,8 @@
+print("===string analyzer")
+sentence = input("Enter a sentence: ")
+print (f"Reversed: {sentence[::-1]}")
+print(f"characters: {len(sentence)}")
+print(f"words: {len(sentence.split())}")
+print (f"Upper: {sentence.upper()}")
+print (f"lower: {sentence.lower()}")
+print (f"Title: {sentence.title()}")
