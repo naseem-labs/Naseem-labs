@@ -1,7 +1,5 @@
-cmd = ""
-# while True:
-#     cmd = input("han vi kaka bol ")
-#     if cmd == "quit":
-#         break
-#     else:
-#         print("quit likhde chup karke pakai na mar")
+print()
+# print ("answer 2 ")
+# print ()
+# word = input("enter the word: ")
+# print(word[::-1])
